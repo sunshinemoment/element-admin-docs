@@ -1,5 +1,5 @@
 module.exports = {
-  // base: "/element-admin-docs/",
+  base: "/element-admin-docs/",
   title: "Element-Admin",
   description: "一个简单的 Vue Element 后台管理系统",
   head: [
